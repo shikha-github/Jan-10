@@ -1,3 +1,0 @@
-shikha 
-java 
-selenium
